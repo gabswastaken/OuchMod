@@ -1,4 +1,4 @@
-# OuchMod (First weave mod made by AI)
+# OuchMod (Mod mad fully with AI)
 - A Weave Mod for Lunar Client that says "ouch" in chat every time you take damage.
 - Made almost enteirley by AI! (This is just a proof of concept)
 
